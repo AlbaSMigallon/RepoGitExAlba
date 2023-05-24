@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"SegundaClase","l":"SegundaClase(ArrayList<Integer>)","u":"%3Cinit%3E(java.util.ArrayList)"}];updateSearchResults();
